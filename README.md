@@ -1,7 +1,7 @@
 ## Contents
 
 - [01_HeadPoseRetrieval](01_HeadPoseRetrieval.md)
-- [02_Hair_Warpping](02_Hair_Warpping.md)
+- [02_HairWarpping](02_HairWarpping.md)
 - [03_HairSwapping](03_HairSwapping.md)
 - [04_HumanGeneration](04_HumanGeneration.md)
 - [05_ClothSimulationAndWrinkleGeneration](05_ClothSimulationAndWrinkleGeneration.md)
