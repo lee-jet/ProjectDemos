@@ -1,12 +1,14 @@
 ## Demos
 
-## Images
+### Images
 
 ![image-20230811110453228](./assets/image-20230811110453228.png)
 
 ![image-20230811110523139](./assets/image-20230811110523139.png)
 
-## GIF
+### GIF
+
+- Please wait for a few seconds.
 
 ![top_1_match_images](./assets/top_1_match_images.gif)
 
