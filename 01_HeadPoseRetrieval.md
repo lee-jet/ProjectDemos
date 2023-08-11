@@ -1,4 +1,4 @@
-## Demos
+## Demo 1 Head Pose Retrieval
 
 ### Images
 
