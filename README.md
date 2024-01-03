@@ -10,8 +10,14 @@
 - [08_ObjectDetection](08_ObjectDetection.md)
 - [09_CollarTry-on](09_CollarTry-on.md)
 - [10_MattingAndBeautifyingFaces](10_MattingAndBeautifyingFaces.md)
+- [11_IPC_ObjectDetection](11_IPC_ObjectDetection.md)
+- [12_GestureDetection](12_GestureDetection.md)
+- [13_FacialEmotionRecognition](13_FacialEmotionRecognition.md)
+- [14_PixelArtGeneration](14_PixelArtGeneration.md)
+
+
 
 ## TODO
 
-- [ ] Updating ...
+- [ ] Coming soon ...
 
