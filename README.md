@@ -14,10 +14,6 @@
 - [12_GestureDetection](12_GestureDetection.md)
 - [13_FacialEmotionRecognition](13_FacialEmotionRecognition.md)
 - [14_PixelArtGeneration](14_PixelArtGeneration.md)
-
-
-
-## TODO
-
-- [ ] Coming soon ...
+- [15_ASR](15_ASR.md)
+- [16_3D-Avatar_Audio2Gesture](16_3D-Avatar_Audio2Gesture.md)
 
